@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
             
             {/* Photo placeholder - will be replaced with actual photo */}
             <div className="relative w-full h-full bg-gradient-to-br from-blue-500 to-purple-600 rounded-full flex items-center justify-center text-6xl font-bold text-white shadow-2xl">
-              <img src="/muhammed.jpg" alt="MH" /> 
+              <img src="/Mmm.jpeg" alt="MH" /> 
             </div>
             
             {/* Orbiting services */}
